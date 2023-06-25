@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello Everyone 👋 
+### satyananarayana here
 <!--
 **satyanarayana-senapathi/satyanarayana-senapathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=satyanarayana-senapathi)
+
+<a href="https://github.com/satyanarayana-senapathi">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyanarayana-senapathi&langs_count=8&show_icons=true&theme=tokyonight&bg_color=120deg,22272e,1b2439,1c1f41,261746,360444&hide_border=true&layout=compact" alt="satyanarayana's GitHub Stats" />
+</a>
